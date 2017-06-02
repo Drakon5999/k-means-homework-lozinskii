@@ -1,1 +1,1 @@
-"# k-means-homework-lozinskii" 
+# Реализация алгоритма K-means на python 2
